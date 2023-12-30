@@ -1,0 +1,19 @@
+
+.containing-div{
+    background-color:#A8DF8E;
+}
+
+.nav-link{
+font-size: 1.5rem !important;
+color: black !important;
+}
+.lead{
+    font-size: 1.5rem !important;
+    color: black;
+    font-weight: bold;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #FFBFBF, #FFE5E5, #F3FDE8, #A8DF8E);
+    background-size: 180%, 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
